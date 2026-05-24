@@ -18,7 +18,7 @@
   - 实践：用我（Hermes Agent）尝试不同 Prompt 写法
 - [ ] **Day 4：Context 与 RAG**
   - 阅读 Handbook：[Context](https://aiweb3.school/zh/handbook/ai/context/) + [RAG](https://aiweb3.school/zh/handbook/ai/rag/)
-- [ ] **Day 5-6：Agent 基础**
+- [x] **Day 5-6：Agent 基础** ✅ 已完成（2026-05-24）
   - 阅读 Handbook：[Agent](https://aiweb3.school/zh/handbook/ai/agent/) + [MCP](https://aiweb3.school/zh/handbook/ai/mcp/)
   - 理解：工具调用、多步执行、Agent 工作流
 - [ ] **Day 7：回顾与整理**
