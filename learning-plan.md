@@ -45,9 +45,10 @@
 ### 第 3 周：理解交叉点
 目标：理解 AI 和 Web3 如何真正结合
 
-- [ ] **Day 1-2：Chain-aware Context**
+- [x] **Day 1-2：Chain-aware Context** ✅ 已完成（2026-06-03）
   - 阅读：[Chain-aware Context](https://aiweb3.school/zh/handbook/bridge/chain-aware-context/)
   - 理解：链上状态如何进入 Agent 上下文
+  - 最小实践：组装了一笔真实 USDC 交易的上下文包（事实 vs 解释 + Citation）
 - [ ] **Day 3：Web3 Tool Use**
   - 阅读：[Web3 Tool Use](https://aiweb3.school/zh/handbook/bridge/web3-tool-use/)
   - 理解：Agent 如何调用 RPC、钱包、合约工具
